@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: eurekaclient
+    name: serviceprovider1
   rabbitmq:
     host: localhost
     port: 5672
