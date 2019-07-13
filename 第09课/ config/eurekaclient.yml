@@ -1,5 +1,6 @@
 server:
-  port: 8764
+  port: 8762
+
 spring:
   application:
     name: eurekaclient
@@ -14,7 +15,8 @@ spring:
       type: web
   sleuth:
     sampler:
-      probability : 1
+      probability: 1
+
 management:
   endpoints:
     web:
