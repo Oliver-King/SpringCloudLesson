@@ -1,5 +1,5 @@
 server:
-  port: 8764
+  port: 8762
 
 spring:
   application:
@@ -22,3 +22,6 @@ management:
     web:
       exposure:
         include: refresh,health,info,bus-refresh
+
+cfg:
+  name: cfg1
