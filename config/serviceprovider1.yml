@@ -24,4 +24,4 @@ management:
         include: refresh,health,info,bus-refresh
 
 cfg:
-  name: cfg1
+  name: cfg2
